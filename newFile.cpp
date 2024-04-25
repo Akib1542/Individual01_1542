@@ -6,4 +6,5 @@ int main()
 {
     cout<<"Using for Stash practice!"<<endl;
     
+    cout<<"Edit 1"<<endl;
 }
